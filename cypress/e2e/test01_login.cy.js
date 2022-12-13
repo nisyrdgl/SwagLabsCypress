@@ -3,7 +3,7 @@ Test Case 1: Login User with correct email and password
 1. Launch browser
 2. Navigate to url 'https://www.saucedemo.com/'
 3. Verify that home page is visible successfully
-4. Enter correct email address and password
+4. Enter correct username and password
 5. Click 'login' button
 6. verifies   the user has logged in
 
